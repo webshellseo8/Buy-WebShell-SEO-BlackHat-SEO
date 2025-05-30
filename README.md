@@ -40,10 +40,10 @@ WebShell SEO 和 BlackHat SEO 有时会被用来快速提高网站在搜索引�
 
 
 ## Buy from Telegram
-If you need advanced solutions, you can contact [@NexusLeads](https://hackersplanet.pro/) on Telegram.
+If you need advanced solutions, you can contact [@ZenithSupport_BOT ](https://hackersplanet.pro/) on Telegram.
 Click below to purchase or learn more:
 
 [![Telegram Logo](https://cdn-icons-png.flaticon.com/512/2111/2111646.png)](https://hackersplanet.pro/)
 
-[**Buy from Telegram**](https://hackersplanet.pro/)
+[**Buy from Website**](https://hackersplanet.pro/)
 
