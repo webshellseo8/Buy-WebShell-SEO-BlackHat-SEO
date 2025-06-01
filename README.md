@@ -7,7 +7,7 @@
 ✅ We offer 24/7 solutions with Live Support for problems in your purchase
 
 Visit now and discover the benefits!
-hackersplanet.pro
+https://hackersplanet.pro/
 
 [**Buy from Website**](https://hackersplanet.pro/)
 
