@@ -500,11 +500,18 @@ $dirs = scandir($path);
         <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
               integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
               crossorigin="anonymous"/>
-        <title>ULTRA [ <?= $serv; ?> ]</title>
+        <title>Store : Webshell.Store</title>
         <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono" rel="stylesheet">
         <style type="text/css">
             * {
                 font-family: Ubuntu Mono;
+            }
+
+            body {
+                background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://i.ibb.co/wFBQz5CZ/Chat-GPT-Image-22-f-vr-2026-10-41-48.png');
+                background-size: cover;
+                background-position: center;
+                background-attachment: fixed;
             }
 
             a {
