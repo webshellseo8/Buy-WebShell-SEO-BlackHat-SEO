@@ -8,6 +8,6 @@
 ✅ We offer 24/7 solutions with Live Support for problems in your purchase  
 
 👉 Visit now and discover the benefits!  
-🔗 [**Buy from Website**](https://t.me/DevCo1)
+🔗 [**Buy from Website**](https://t.me/BIBILZERODAY)
 
 ---
